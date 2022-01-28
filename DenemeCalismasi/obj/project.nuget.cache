@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpPcKGYylUxBr23xjjoJV9V1RQDPQmfQWKUeMdAiDZXl2+GhgEoFarOj2ojaAAkudMoFR+L+T967OMBetgZ3dg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\JenkinsCalismasi\\DenemeCalismasi\\DenemeCalismasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
